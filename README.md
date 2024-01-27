@@ -1,19 +1,17 @@
-<h1 align="center">Hi 👋, I'm Muhammadiyev Javohir</h1>
+<h1 align="center">Hi 👋, I'm Muxammadiyev Javohir</h1>
 <h3 align="center">Full Stack developer from Uzbekistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javohirdevloper&label=Profile%20views&color=0e75b6&style=flat" alt="javohirdevloper" /> </p>
 
-- 🔭 I’m currently working on **Online shopping**
-
-- 🌱 I’m currently learning **NestJs, Graphql, TypeScript**
+- 🌱 I’m currently learning **NestJs, TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://javohircoder.netlify.com](https://javohircoder.netlify.com)
 
-- 💬 Ask me about **ReactJs, VueJs**
+- 💬 Ask me about **ReactJs**
 
-- 📫 If you need my email address **muhammadiyevj768@gmail.com**
+- 📫 If you need my email address **javoxircoderuz@gmail.com**
 
 - ⚡ Fun fact **Programming is one of the easiest professions**
 
