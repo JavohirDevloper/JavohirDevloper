@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javohirdevloper&label=Profile%20views&color=0e75b6&style=flat" alt="javohirdevloper" /> </p>
 
-- 🌱 I’m currently learning **NestJs, TypeScript**
+- 🌱 I’m currently learning **Python,Django**
 
 - 👨‍💻 All of my projects are available at [https://javohircoder.netlify.com](https://javohircoder.netlify.com)
 
-- 💬 Ask me about **ReactJs**
+- 💬 Ask me about **VueJs**
 
 - 📫 If you need my email address **javoxircoderuz@gmail.com**
 
