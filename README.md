@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javohirdevloper&label=Profile%20views&color=0e75b6&style=flat" alt="javohirdevloper" /> </p>
 
-- 🌱 I’m currently learning **Python,Django**
+- 🌱 I’m currently learning **VueJs**
 
 - 👨‍💻 All of my projects are available at [https://javohircoder.netlify.com](https://javohircoder.netlify.com)
 
@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/uktamovich_2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uktamovich_2006" height="30" width="40" /></a>
+<a href="https://twitter.com/JavoxirCoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uktamovich_2006" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/javohir-muhammadiyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javohir-muhammadiyev" height="30" width="40" /></a>
-<a href="https://instagram.com/uktamovich_2622" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uktamovich_2622" height="30" width="40" /></a>
+<a href="https://instagram.com/javohkir.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="javohkir.dev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
